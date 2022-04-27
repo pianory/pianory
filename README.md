@@ -3,4 +3,4 @@
 ![pianory's github stats](https://github-readme-stats.vercel.app/api?username=pianory&show_icons=true)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=pianory123)](https://solved.ac/pianory123)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pianory123)](https://solved.ac/pianory123)
